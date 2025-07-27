@@ -12,7 +12,7 @@ The purpose of this project is to demonstrate how the Kelly Criterion can be app
 
 In this repository, you'll find a detailed Python implementation of the Kelly Criterion, along with simulations and results visualized in various plots.
 
-### Histogram of final wealth
+### Distribution of final wealth
 ![Histogram of final wealth](Figure_1.png)
 
 ### Distribution of outcomes
