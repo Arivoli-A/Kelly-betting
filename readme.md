@@ -1,6 +1,11 @@
 # Application of Random Processes in real life
 
-[![Video Thumbnail](https://img.youtube.com/vi/ts9lsA_WT1Y/0.jpg)](https://www.youtube.com/watch?v=ts9lsA_WT1Y)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=ts9lsA_WT1Y" target="_blank">
+    <img src="https://img.youtube.com/vi/ts9lsA_WT1Y/0.jpg" alt="Video Thumbnail" width="460" height="300">
+  </a>
+</p>
+
 
 # Kelly Betting Strategy
 
